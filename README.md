@@ -1,5 +1,6 @@
 ### Olá, meu nome é Renan 👋
-![Gif de gatinho](https://media.tenor.com/U28V2bPGlgUAAAAd/gato-sorrindo.gif =250x250)
+>![Gif de gatinho](https://media.tenor.com/U28V2bPGlgUAAAAd/gato-sorrindo.gif )
+<img src="https://media.tenor.com/U28V2bPGlgUAAAAd/gato-sorrindo.gif" width="80" height="80" />
 
 <!--
 **RenanGLima/RenanGLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
